@@ -1,0 +1,8 @@
+streamlit>=1.21.0
+requests>=2.28.1
+beautifulsoup4>=4.11.1
+nltk>=3.7
+scikit-learn>=1.1.2
+tensorflow>=2.10.0
+numpy>=1.23.3
+pickle-mixin>=1.0.2
